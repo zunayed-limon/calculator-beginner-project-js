@@ -27,12 +27,6 @@ body{
 
 }
 
-button:focus,
-button:active{
-    outline: none;
-    
-}
-
 input{
     width: 320px;
     border: none;
